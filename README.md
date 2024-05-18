@@ -65,6 +65,9 @@ import mysql.connector
 ## 📉 Power BI
 - Power BI dashboard provides interactive visualizations and insights derived from the Airbnb dataset. It allows you to explore various aspects of Airbnb listings, including pricing trends, property types, and geographical distributions.
 
+![Airbnb_Dashboard](https://github.com/Gokul170601/Airbnb-Analysis/assets/160706026/95923755-af17-4788-847e-2836c5832f99)
+
+
 
 > [!NOTE]
 You can download the raw Power BI file to explore the dashboard in detail.
@@ -82,7 +85,7 @@ You can download the raw Power BI file to explore the dashboard in detail.
 
 ### 🎥 Demo Video
 
-YT Link : 
+YT Link : https://www.youtube.com/watch?v=3OYxfZl6BjY
 
 ### 📞 Contact
 LINKEDIN: www.linkedin.com/in/gokul-m-j17/             
