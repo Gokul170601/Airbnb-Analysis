@@ -11,7 +11,7 @@
 - Developed an interactive dashboard using Streamlit, providing users with a platform to explore insights from the dataset
 - Incorporated dynamic visualizations with Plotly to enrich the dashboard's with sqlalchemy for querying 
 
-## Domain : 🛫 Travel Industry, Property Management and Tourism 
+## Domain : ✈️ Travel Industry, Property Management and Tourism 
 
 ## 🎨 Skills Takeaway
 
@@ -52,8 +52,40 @@ import mysql.connector
 #### 📊 Data Visualization And Analysis:
 - With the assistance of Streamlit and Plotly, a dashboard and charts are created, offering geospatial visualizations and top insights. This setup empowers users to explore and reveal trends within the dataset, facilitating insightful analysis.
 
+
 ## 📘 Features
 
+- In the 'Home' section of our project, users can explore detailed hotel information by selecting a country.This feature provides an overview of each hotel, including price, room type, description, and ratings.
+  
+- In the 'Discover' section, users have the opportunity to explore countries through dynamic geo-visualizations, supplemented with price insights. Additionally, users can refine their exploration by selecting specific property types and room types, allowing for a more tailored search experience.
+  
+- In the 'Insight' section, users explore two categories: 'Top Insights' and 'Filtered Insights'. 'Top Insights' offer pre-defined queries with insightful analysis,                      while 'Filtered Insights' allow users to select specific criteria for tailored visualizations
 
+
+## 📉 Power BI
+- Power BI dashboard provides interactive visualizations and insights derived from the Airbnb dataset. It allows you to explore various aspects of Airbnb listings, including pricing trends, property types, and geographical distributions.
+
+
+> [!NOTE]
+You can download the raw Power BI file to explore the dashboard in detail.
+
+
+
+### 👨‍🏫 Reference
+* [Python Documentation](https://docs.python.org/3/)
+* [pandas Documentation](https://pandas.pydata.org/docs/)
+* [Mysql Documentation](https://dev.mysql.com/doc/)
+* [Streamlit Documentation](https://docs.streamlit.io/)
+* [Plotly Documentation](https://plotly.com/python/)
+* [Power BI](https://learn.microsoft.com/en-us/power-bi/)
+
+
+### 🎥 Demo Video
+
+YT Link : 
+
+### 📞 Contact
+LINKEDIN: www.linkedin.com/in/gokul-m-j17/             
+EMAIL : gokulgokul6847@gmail.com
 
 
